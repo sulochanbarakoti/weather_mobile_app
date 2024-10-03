@@ -8,7 +8,11 @@ export default function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator>
-        <Stack.Screen name="index" component={Index} />
+        <Stack.Screen
+          name="index"
+          options={{ headerShown: false }}
+          component={Index}
+        />
       </Stack.Navigator>
     </NavigationContainer>
   );
