@@ -67,7 +67,7 @@
 
   <h2>Installation</h2>
   <p>1. Clone the repository:</p>
-  <pre><code>git clone https://github.com/your-username/weather-app.git
+  <pre><code>git clone https://github.com/sulochanbarakoti/weather_mobile_app.git
 cd weather-app
 </code></pre>
 
