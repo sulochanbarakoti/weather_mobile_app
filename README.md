@@ -57,7 +57,7 @@
       width="300px"
     />
     <img
-      src="./assets/ss1.png"
+      src="./assets/ss2.png"
       alt="Weather App Screenshot"
       width="300px"
     />
